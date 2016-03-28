@@ -96,5 +96,5 @@ void loop() {
   }
 
   count++; //Increase count
-  count = count % 10; //To make sure count goes from 0 to 9 and back to 0 (circular array)
+  count = count % 10; //To make sure count goes from 0 to 9 and back to 0 (circular array) 
 }
